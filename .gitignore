@@ -48,4 +48,8 @@ junit.xml
 .jsii
 tsconfig.json
 !/API.md
+cdk.out
+.idea
+.vscode
+cdk.context.json
 !/.projenrc.ts
